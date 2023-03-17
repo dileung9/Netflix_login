@@ -11,3 +11,6 @@ I used the Visual Studio Code application to make the code.
 To view the finished project, the user just has to run the "index.html" file found in this repository. In the "assets" folder you can find the images used and the design settings by CSS.
 
 # Image of the finished project
+
+
+# My contact
