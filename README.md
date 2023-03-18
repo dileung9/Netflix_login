@@ -1,6 +1,6 @@
 # Netflix_login
 This is my first project programming using HTML and CSS, using operations to recreate the Netflix login page. 
-I decided to call this project just "Netflix login page". The main objective is to recreate the login page of the netflix website in the Brazilian Portuguese language. The choice to use HTML and CSS was simply because I'm still developing my first projects, so choosing something that was simpler and within my reach was a priority. The The main challenge I found was how to make the code more organized and functional at the same time.
+I decided to call this project just "Netflix login page". The main objective is to recreate the login page of the netflix website in the Brazilian Portuguese language. The choice to use HTML and CSS was simply because I'm still developing my first projects, so choosing something that was simpler and within my reach was a priority. The main challenge I found was how to make the code more organized and functional at the same time.
 
 # Methodology
 
