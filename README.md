@@ -14,3 +14,4 @@ To view the finished project, the user just has to run the "index.html" file fou
 
 
 # My contact
+https://www.linkedin.com/in/diego-leung-de-souza-7a3528258/
