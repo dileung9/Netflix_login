@@ -14,6 +14,7 @@ I used the Visual Studio Code application to make the code.
 # Technologies used
 + HTML
 + CSS
++ Visual studio code
 
 # How to use
 <p align="justify">
