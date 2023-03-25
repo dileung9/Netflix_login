@@ -23,7 +23,7 @@ To view the finished project, the user just has to run the "index.html" file fou
 
 # Image of the finished project
 <div align = "center">
-<img src = "https://user-images.githubusercontent.com/124335351/226078510-864813d5-6fcc-4133-bb64-e645a911e8ab.jpg" width = "700px"/>
+<img src = "https://user-images.githubusercontent.com/124335351/227735011-894b4600-3d42-48e5-9d3f-a34f68d1df3b.jpg" width = "700px"/>
 </div>
 
 # My contact
