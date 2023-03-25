@@ -119,19 +119,19 @@ body::before{
     text-decoration: underline;
 }
 
-.login_facebook{
+.login_google{
     display: flex;
     align-items: center;
     width: 100%;
     color: #737373;
 }
 
-.login_facebook span{
+.login_google span{
     margin-right: 5px;
     font-size: 13px;
 }
 
-.login_facebook span a{
+.login_google span a{
     text-decoration: none;
     color: #737373;
 }
